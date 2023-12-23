@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knok-gg&label=Profile%20views&color=0e75b6&style=flat" alt="knok-gg" /> </p>
 
-- 🌱 I’m currently learning **system hacking and web application pen testing**
+- 🌱 I’m currently learning **system hacking and web application pen testing and Android hacking**
 
 - 💬 Ask me about **coding - cybersecurity**
 
