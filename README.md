@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm intruder</h1>
+<h1 align="center">Hi 👋, I'm unauthorized</h1>
 <h3 align="center">A passionate backend and fontend developer from Chicago </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=knok-gg&label=Profile%20views&color=0e75b6&style=flat" alt="knok-gg" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=knok-gg&label=Profile%20views&color=0e75b6&style=flat" alt="unauthorized" /> </p>
 
 - 🌱 I’m currently learning **system hacking and web application pen testing and Android hacking**
 
